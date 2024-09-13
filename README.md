@@ -16,6 +16,6 @@ The "Barcode Label Targetter", BLT for short, increases your precision and accur
 ### Does this template have a vegan option? Gluten-free?
 
 - At this time, only one version of the template exists.
-  If this is something you need,
+  If you require a BLT that meets dietary restrictions,
   please [create or vote up an issue](https://github.com/cityssm/blt/issues)
   or submit a pull request.
