@@ -1,6 +1,6 @@
 # Barcode Label Targetter (BLT)
 
-![Barcode Label Targetter Demo](demo.png)
+![Barcode Label Targetter Demo](docs/demo.png)
 
 The "Barcode Label Targetter", BLT for short, increases your precision and accuracy scanning barcodes that are close together.
 
